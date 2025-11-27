@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# Description
+
+This is a dynamic story app that allows users to create and interact with characters in their stories. Enter the character details and AI will generate a story based on the character's personality and description.
+
 ## Getting Started
 
 First, run the development server:
