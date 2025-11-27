@@ -4,6 +4,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 This is a dynamic story app that allows users to create and interact with characters in their stories. Enter the character details and AI will generate a story based on the character's personality and description.
 
+# Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+- OpenAI
+
 ## Getting Started
 
 First, run the development server:
@@ -18,11 +26,16 @@ pnpm dev
 bun dev
 ```
 
+# API Keys setup
+
+Put your OpenAI API key in the `.env.local` file.
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for 
+Vercel.
 
 ## Learn More
 
